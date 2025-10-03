@@ -1,0 +1,17 @@
+.uniqueHeaderWrap {
+  text-align: center;
+  padding: 20px;
+  background: #f94144;
+  color: white;
+  border-radius: 8px;
+}
+
+.uniqueMainTitle {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.uniqueSubTitle {
+  font-size: 1.2rem;
+  margin-top: 6px;
+}

@@ -1,0 +1,37 @@
+.uniqueSkillSection {
+  text-align: center;
+  margin: 86px auto;
+  max-width: 350px;
+  border: 2px solid #90be6d;
+  border-radius: 12px;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.uniqueSkillTitle {
+  font-size: 1.4rem;
+  margin-bottom: 12px;
+  color: #f94144;
+}
+
+.uniqueSkillList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+}
+
+.uniqueSkillList li {
+  background: rgba(249, 65, 68, 0.1);
+  color: #90be6d;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-weight: bold;
+  border: 2px solid #f94144; 
+  transition: all 0.3s ease;
+}
+
+.uniqueSkillList li:hover {
+  background: rgba(249, 65, 68, 0.2);
+  transform: scale(1.05);
+}

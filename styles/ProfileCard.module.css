@@ -1,0 +1,38 @@
+.uniqueCardShell {
+  background: #90be6d;
+  border: 2px solid #f94144;
+  border-radius: 12px;
+  max-width: 320px;
+  margin: 30px auto;
+  padding: 18px;
+  text-align: center;
+  box-shadow: 0px 6px 14px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.uniqueCardShell:hover {
+  transform: translateY(-6px);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25);
+}
+
+.uniqueProfilePic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.uniqueCardName {
+  font-size: 1.5rem;
+  margin: 8px 0;
+}
+
+.uniqueCardAge {
+  color: #f8961e;
+  font-weight: 500;
+}
+
+.uniqueCardDesc {
+  font-size: 0.95rem;
+  color: #555;
+}
