@@ -1,9 +1,8 @@
 .uniqueHeaderWrap {
   text-align: center;
   padding: 20px;
-  background: #f94144;
+  background: linear-gradient(135deg, #0f2027, #301860, #08d9d6);
   color: white;
-  border-radius: 8px;
 }
 
 .uniqueMainTitle {

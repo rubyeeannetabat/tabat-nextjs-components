@@ -1,5 +1,5 @@
 .uniqueCardShell {
-  background: #90be6d;
+  background: linear-gradient(135deg, #0d0d1a, #2a1a40, #ff4e88);
   border: 2px solid #f94144;
   border-radius: 12px;
   max-width: 320px;
@@ -25,6 +25,7 @@
 .uniqueCardName {
   font-size: 1.5rem;
   margin: 8px 0;
+  color: aliceblue;
 }
 
 .uniqueCardAge {
@@ -34,5 +35,5 @@
 
 .uniqueCardDesc {
   font-size: 0.95rem;
-  color: #555;
+  color: #ffe9e9;
 }

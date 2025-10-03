@@ -1,9 +1,8 @@
 .uniqueFooterWrap {
   text-align: center;
   padding: 14px;
-  background: #90be6d;
+  background: linear-gradient(135deg, #0f2027, #301860, #08d9d6);
   color: white;
   margin-top: 30px;
-  border-radius: 8px;
   font-size: 0.9rem;
 }
